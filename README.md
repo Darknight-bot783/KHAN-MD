@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6a0dad,100:ab47bc&text=KHAN%20MD&fontColor=ffffff&fontSize=85&fontAlignY=40&animation=twinkling&desc=Powered%20By%20Jawad%20TechX&descSize=20&descAlignY=65&stroke=ffffff&strokeWidth=1.2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6a0dad,100:ab47bc&text=DARK%20KNIGHT&fontColor=ffffff&fontSize=85&fontAlignY=40&animation=twinkling&desc=Powered%20By%20Dark%20Knight&descSize=20&descAlignY=65&stroke=ffffff&strokeWidth=1.2" width="100%"/>
 
 <div style="
   margin-top: -60px;
@@ -18,16 +18,16 @@
     0 0 36px #d896ff,
     0 0 48px #ab47bc;
   padding: 12px 0;
-"> Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by Jawad TechX
+"> Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by Dark Knight
 </div>
 </p>
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/-✨_KHAN--MD_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/KHAN-MD&link=https://github.com/KHAN-MD" />
+  <img src="https://img.shields.io/badge/-✨_DARK--KNIGHT_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/KHAN-MD&link=https://github.com/KHAN-MD" />
 </h1>
 </p>
 </p>
-    <img src="https://komarev.com/ghpvc/?username=JawadTechYT&label=Views&color=9D00FF&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Dark KnightYT&label=Views&color=9D00FF&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/github/stars/JawadTechYT/KHAN-MD?color=9D00FF&label=Stars&style=flat" alt="GitHub Stars" />
     <img src="https://img.shields.io/github/forks/JawadTechYT/KHAN-MD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
     <img src="https://img.shields.io/github/followers/JawadTechYT?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
@@ -89,7 +89,7 @@
 
 ## 🚀 Pairing Dashboard
 
-> Securely link your device using the official KHAN-MD pairing portals below: if connection issues may require vpn activation to fix this issue.
+> Securely link your device using the official DARK KNIGHT pairing portals below: if connection issues may require vpn activation to fix this issue.
 
  <div align="center">
 
@@ -106,15 +106,15 @@
 
 ## 📡 DEPLOYMENT SITES
 
-<p align="center">Deploy your <strong>KHAN-MD Bot</strong> with one click on your favorite hosting platforms.</p>
+<p align="center">Deploy your <strong>DARK-KNIGHT Bot</strong> with one click on your favorite hosting platforms.</p>
 
 <div align="center">
 
-### 🔥 TRY KHAN MD MINI
+### 🔥 TRY DARK KNIGHT MINI
 <!-- Cyber Red -->
 <p align="center">
   <a href="https://khan-mdx.vercel.app">
-    <img src="https://img.shields.io/badge/🚀_START_KHAN_MD-ff073a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="KHAN MD Mini Cyber Red"/>
+    <img src="https://img.shields.io/badge/🚀_START_DARK_KNIGHT-ff073a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="DARK KNIGHT Mini Cyber Red"/>
   </a>
 </p>
 
